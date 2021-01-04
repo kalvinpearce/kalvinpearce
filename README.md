@@ -2,7 +2,7 @@
 I am a software developer working at [@SpatialMedia](https://www.spatialmedia.com.au) on high detail interactive applications.
 
 For work I mainly use Unity but in my spare time I am always trying out new things and experimenting with various technologies.
-My current favorite is Flutter :smile:
+I am currently really enjoying playing with Rust :smile:
 
 <a href="https://twitter.com/kalvinpearce"><img src="https://img.shields.io/badge/@kalvinpearce%20-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://kalvinpearce.com"><img src="https://img.shields.io/badge/kalvinpearce.com%20-%23000000.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> <a href="mailto:kalvinpearce@gmail.com"><img src="https://img.shields.io/badge/kalvinpearce.com%20-%23c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
