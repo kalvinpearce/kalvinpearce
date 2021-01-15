@@ -1,4 +1,4 @@
-# Hey! I'm Kalvin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey! I'm Kalvin <img src="images/wave.gif" width="30px">
 I am a software developer working at [@SpatialMedia](https://www.spatialmedia.com.au) on high detail interactive applications.
 
 For work I mainly use Unity but in my spare time I am always trying out new things and experimenting with various technologies.
