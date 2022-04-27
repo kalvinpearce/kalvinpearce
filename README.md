@@ -20,8 +20,6 @@ I am currently really enjoying playing with Rust :smile:
 
 [<img src="https://github-readme-stats.vercel.app/api?username=kalvinpearce&include_all_commits=true&count_private=true&show_icons=true&theme=graywhite&custom_title=Github%20Stats" alt="KalvinPearce's GitHub Stats" />][/]
 [<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalvinpearce&exclude_repo=RayTracer-Optimization,PracType&langs_count=3&theme=graywhite&custom_title=Top%203%20Public%20Languages" alt="KalvinPearce's Top 3 Public Languages"/>][/]
-[<img height="137" width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=Real-Serious-Games&repo=C-Sharp-Promise&theme=graywhite" alt="C-Sharp-Promie's Repo Stats" />][CSharpPromise]
-[<img height="137" width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=kalvinpearce&repo=UnityTool-GlobalInput&theme=graywhite" alt="KalvinPearce's UnityTool-GlobalInput Repo Stats" />][GlobalInput]
 
 [/]: https://github.com/kalvinpearce/
 [website]: https://www.kalvinpearce.com/
