@@ -18,13 +18,12 @@ I am currently really enjoying playing with Rust :smile:
 [<img src="https://img.shields.io/badge/aws%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws"/>][/]
 [<img src="https://img.shields.io/badge/rust%20-%23DD3A26.svg?&style=for-the-badge&logo=rust&logoColor=white"/>][/]
 
+<!--
 [<img src="https://github-readme-stats.vercel.app/api?username=kalvinpearce&include_all_commits=true&count_private=true&show_icons=true&theme=graywhite&custom_title=Github%20Stats" alt="KalvinPearce's GitHub Stats" />][/]
 [<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalvinpearce&exclude_repo=RayTracer-Optimization,PracType&langs_count=3&theme=graywhite&custom_title=Top%203%20Public%20Languages" alt="KalvinPearce's Top 3 Public Languages"/>][/]
+-->
 
 [/]: https://github.com/kalvinpearce/
 [website]: https://www.kalvinpearce.com/
 [twitter]: https://twitter.com/kalvinpearce/
 [email]: mailto:kalvinpearce@gmail.com
-
-[CSharpPromise]: https://github.com/Real-Serious-Games/C-Sharp-Promise
-[GlobalInput]: https://github.com/kalvinpearce/UnityTool-GlobalInput
