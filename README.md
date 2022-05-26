@@ -5,8 +5,8 @@ For work I mainly use Unity but in my spare time I am always trying out new thin
 I am currently really enjoying playing with Rust :smile:
 
 [<img src="https://img.shields.io/badge/@kalvinpearce%20-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
-[<img src="https://img.shields.io/badge/kalvinpearce.com%20-%23000000.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white"/>][website]
-[<img src="https://img.shields.io/badge/kalvinpearce.com%20-%23c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>][email]
+[<img src="https://img.shields.io/badge/kalvin.cc%20-%23000000.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white"/>][website]
+[<img src="https://img.shields.io/badge/kalvin.cc%20-%23c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>][email]
 
 ### What I usually use
 [<img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab"/>][/]
@@ -24,6 +24,6 @@ I am currently really enjoying playing with Rust :smile:
 -->
 
 [/]: https://github.com/kalvinpearce/
-[website]: https://www.kalvinpearce.com/
+[website]: https://kalvin.cc/
 [twitter]: https://twitter.com/kalvinpearce/
 [email]: mailto:kalvinpearce@gmail.com
